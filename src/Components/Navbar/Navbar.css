@@ -3,6 +3,7 @@
     align-items:center;
     justify-content: space-between;
     margin: 20px 170px;
+    color : black;
 }
 
 .nav-menu {
@@ -39,3 +40,7 @@
   }
   
  
+  a {
+    text-decoration: none; 
+    color: inherit; 
+  } 

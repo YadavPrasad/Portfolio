@@ -1,12 +1,8 @@
-*{
-    margin : 0;
-    padding : 0;
-    background-color: black;
-}
-
 body {
-    height: 100vh;
-    background: black;
+    background-color: black;
     color: white;
-    font-family: 'outfit';
-}
+    margin: 0; /* Remove default margins */
+    min-height: 100vh; /* Ensure full height */
+    font-family: Arial, sans-serif;
+  }
+  
