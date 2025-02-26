@@ -1,4 +1,4 @@
-import './profile.css'
+import './Profile.css'
 import logo from '../../assets/bruh.jpg'
 
 const Profile = () => {
